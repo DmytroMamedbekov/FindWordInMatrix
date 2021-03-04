@@ -4,9 +4,11 @@
 Example:
 Matrix String: abcdefghi
 Matrix Example:
+
 g h i
 d e f
 a b c 
+
 Word to be found:bed
 Result: [0, 1]->[1, 1]->[1, 0]
 

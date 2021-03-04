@@ -7,7 +7,7 @@ Matrix Example:<br />
 g h i<br />
 d e f<br />
 a b c <br />
-Word to be found:bed
+Word to be found:bed<br />
 Result: [0, 1]->[1, 1]->[1, 0]
 <br />
 

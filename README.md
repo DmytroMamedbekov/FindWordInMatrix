@@ -4,12 +4,12 @@
 Example:
 Matrix String: abcdefghi
 Matrix Example:
-g h i
-d e f
-a b c 
+g h i<br />
+d e f<br />
+a b c <br />
 Word to be found:bed
 Result: [0, 1]->[1, 1]->[1, 0]
-
+<br />
 
 Notes:
 If a word cannot be found, returns null.

@@ -3,7 +3,7 @@
 
 Example:
 Matrix String: abcdefghi
-Matrix Example:
+Matrix Example:<br />
 g h i<br />
 d e f<br />
 a b c <br />
